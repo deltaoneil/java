@@ -2,7 +2,7 @@
 String a = "deze ";
 String b = "opdracht ";
 String c = "was ";
-String d = "moeilijk.";
+String d = "makkelijk.";
 String antwoord = "";
 
 //Wordt een keer uitgevoerd aan het begin.
